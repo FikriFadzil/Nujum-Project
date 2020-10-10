@@ -5,13 +5,13 @@ Nujum Project &#129497;
 
  ## About
 
-  Usually, a new version of software will be shipped together with hundreds (or thousands) of files. Upon installation, those files will be created and scattered around different paths. If we gather all of the default local file paths for every software version and compare the list between each of them, we should able to extract the fingerprint that holds the identity for the software version.
+  Usually, a new version of software will be shipped together with hundreds (or thousands) of files. Upon installation, those files will be created and scattered around different paths in the operating system. If we gather all of the default local file paths for every software version and compare the list between each of them, we should able to extract the fingerprint that holds the identity for the software's version.
 
-  __Nujum__ is a Malay word which means "fortune teller". This project aims to build a database of software fingerprints based on unique collections of default local file paths. With this, you only have to check for the existence of every of the suggested local file paths. If the collection of existed files match any of the list, you should able to learn the software version.
+  __Nujum__ is a Malay word which means "fortune teller". This project aims to build a database of software fingerprints based on unique collections of default local file paths. With this, you only have to check for the existence of every of the suggested local file paths. If the collection of existing files matches the list, you should able to learn the software's version.
 
  ## How to Use It?
 
-   Fingerprint databases are avaiable in JSON format. Parse any of them with your favourite programming language and use it in your exploitation script.
+   Fingerprint databases are available in JSON format. Parse any of them with your favourite programming language and use it in your exploitation script.
 
  ## Supported Software Versions
    The following table contains a list of supported software versions.
