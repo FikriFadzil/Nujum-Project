@@ -32,4 +32,4 @@ Nujum Project &#129497;
 
    1. Raw data are available in `.manuscript` directory. Feel free to amend with new data and contribute on new fingerprints.
    2. Fingerprint databases are available in `fingerprints` directory.
-   3. The fingerprints are not yet fine tune. Your feedbacks are welcomed for improvements.
+   3. The fingerprints are not yet fine tuned. Your feedback is welcome for further improvements of the product.
