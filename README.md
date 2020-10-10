@@ -11,7 +11,7 @@ Nujum Project &#129497;
 
  ## How to Use It?
 
-   Fingerprint databases are available in JSON format. Parse any of them with your favourite programming language and use it in your exploitation script.
+   Fingerprint databases are available in JSON format. Parse any of them with your favourite programming language and use it in your exploit script.
 
  ## Supported Software Versions
    The following table contains a list of supported software versions.
